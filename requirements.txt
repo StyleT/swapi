@@ -19,6 +19,7 @@ gunicorn==19.1.1
 keen==0.3.7
 markdown2==2.3.0
 pycrypto==2.6.1
+psycopg2==2.7.7
 pylibmc==1.4.1
 requests==2.5.1
 six==1.8.0
